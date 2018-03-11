@@ -1,0 +1,15 @@
+{
+  "name": "flatado-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Flat and Retro Monokai Syntax <3",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
